@@ -65,7 +65,7 @@ public class PieChartView extends View {
 	float perLegendHeight;
 	/**图例和图例文字高度*/
 	float strHeight;
-	/**是否开始draw的标识：true开始，flase不开始*/
+	/**是否开始draw的标识：true开始，false不开始*/
 	private boolean drawFlag = false;
 
 	public PieChartView(Context context) {
