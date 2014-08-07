@@ -1,6 +1,7 @@
 package com.example.chartpie;
 
 /**
+ * 坐标bean
  * @author liuxiuquan
  * 2014年8月7日
  */
